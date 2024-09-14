@@ -26,10 +26,15 @@
             "required": true,
             "value": ""
         },
-    "OWNER_NUMBER": {
-            "description": "Put Your number here / ඔබගෙ දුරකතන අංකය දමන්න",
+    "POSTGRESQL_URL": {
+            "description": "Put Any postgres url here",
             "required": true,
-            "value": "9471xxxxxxx"
+            "value": "postgres://vajiratech_user:oSIFl2xmSojMZ0rkzdd0g0W6msuVTpNN@dpg-cpd7fjv109ks73e5gtig-a.frankfurt-postgres.render.com/vajiratech"
+        },
+    "OWNER_NUMBER": {
+            "description": "Dont change this numner then will comes error",
+            "required": true,
+            "value": "94757468336"
 }
 
     },
